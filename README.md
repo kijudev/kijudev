@@ -1,3 +1,1 @@
-I'm Kiju.
-And this is my github.
-I like coding, I like building stuff, and I love platypuses.
+Just sippin on some Maté and debugging a segfault in brainfuck 🧉
